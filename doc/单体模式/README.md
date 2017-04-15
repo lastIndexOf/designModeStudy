@@ -49,4 +49,4 @@
 ```
 namespace1 和 namespace2中都有func1 和 func2, 但他们不会互相影响
 
-- 
+-
