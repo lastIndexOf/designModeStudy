@@ -24,4 +24,28 @@ function asFunc(id) {
 }
 ```
 
-这样, 利用asFuncBrideg这个'桥梁'就消除了asFunc函数与环境因为'this'而长生的耦合
+这样, 利用asFuncBrideg这个'桥梁'就消除了asFunc函数与环境因为'this'而产生的耦合
+
+
+
+- '桥梁'还可以把多个类联接起来
+
+```
+class A {
+  constructor(a, b, c) {
+    this.a = a
+    this.b = b
+    this.c = c
+  }
+}
+class B {
+  constructor(d) {
+    this.d = d
+  }
+}
+
+function bridge(a, b, c, d) {
+  let a = new A(a, b, c)
+  let b = new B(d)
+}
+```
