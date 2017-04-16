@@ -10,3 +10,5 @@
 - [链式调用](https://github.com/lastIndexOf/designModeStudy/tree/master/doc/链式调用)
 
 - [工厂模式](https://github.com/lastIndexOf/designModeStudy/tree/master/doc/工厂模式)
+
+- [桥接模式](https://github.com/lastIndexOf/designModeStudy/tree/master/doc/桥接模式)
