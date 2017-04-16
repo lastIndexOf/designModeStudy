@@ -1,5 +1,6 @@
 # designModeStudy
 
+(推荐阅读著名框架，库的源码学习，如jquery, underscore, sweetalert, animejs, koa, express等)
 - 接口 Interface
 
 - [继承与封装](https://github.com/lastIndexOf/designModeStudy/tree/master/doc/封装)
