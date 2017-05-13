@@ -10,9 +10,9 @@
 
 #### js基础(三天内)
 
-- [JavaScript语法](http://www.imooc.com/learn/36)
+- [JavaScript语法](http://www.imooc.com/learn/36)(2天)
 
-- [JavaScript 常用Api](http://www.imooc.com/learn/10)
+- [JavaScript 常用Api](http://www.imooc.com/learn/10)(2天)
 
 学完这些基础后， 可以一边看[JavaScript高级程序设计](https://github.com/lastIndexOf/designModeStudy/tree/master/doc/study/JavaScriptStudy.pdf)(前期重点看3-8， 10-13章) 一边看`清心老师视频`(找li哥要)
 
