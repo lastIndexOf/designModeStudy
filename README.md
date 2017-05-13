@@ -14,3 +14,5 @@
 - [桥接模式](https://github.com/lastIndexOf/designModeStudy/tree/master/doc/桥接模式)
 
 - [组合模式](https://github.com/lastIndexOf/designModeStudy/tree/master/doc/组合模式)
+
+- [*沃德天团队前端学习计划表](https://github.com/lastIndexOf/designModeStudy/tree/master/doc/study)
